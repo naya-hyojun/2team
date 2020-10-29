@@ -21,7 +21,7 @@ import co.soft.mapper.ToiletMapper;
 
 	
 
-// Spring MVC 프로젝트에 관련된 설정을 하는 클래스zzzzzzz
+// Spring MVC 프로젝트에 관련된 설정을 하는 클래스zzzzzzzzzz
 @Configuration
 // Controller 어노테이션이 셋팅되어 있는 클래스를 Controller로 등록한다.
 @EnableWebMvc
