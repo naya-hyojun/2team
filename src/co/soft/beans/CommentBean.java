@@ -8,7 +8,7 @@ import org.springframework.web.multipart.MultipartFile;
 public class CommentBean {
 
 	
-	private int t_com_no;  // 아무거나
+	private int t_com_no;  // 아무거나 아무거나 쓴다
 	
 	private String t_user_id;
 	
